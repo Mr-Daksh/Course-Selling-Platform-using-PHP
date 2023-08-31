@@ -36,7 +36,7 @@ At the heart of this project's triumph lies our mastery of PHP—a foundational 
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** PHP
-- **Database:** MySQL
+- **Database:** SQL
 - **Payment Gateway:** Razorpay
 
 ### Challenges and Solutions
