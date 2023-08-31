@@ -89,14 +89,6 @@ Due to confidentiality agreements, the comprehensive codebase cannot be shared o
   </tr>
   <tr>
     <td align="center">
-      <img src="Screenshots/s3.png" alt="Screenshot 3" width="400">
-    </td>
-    <td align="center">
-      <img src="Screenshots/s4.png" alt="Screenshot 4" width="400">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="Screenshots/s5.png" alt="Screenshot 3" width="400">
     </td>
     <td align="center">
