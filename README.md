@@ -75,6 +75,28 @@ The culmination of our effort resulted in the launch of a live online course pla
 
 Due to confidentiality agreements, the comprehensive codebase cannot be shared on GitHub. However, I am enthusiastic about the prospect of discussing my pivotal role, technical solutions, and PHP expertise during interviews.
 
+## Screenshots
+
+<table>
+  <tr>
+    <tr>
+    <td align="center">
+      <img src="Screenshots/s1.png" alt="Screenshot 1" width="400">
+    </td>
+    <td align="center">
+      <img src="Screenshots/s2.png" alt="Screenshot 2" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/s5.png" alt="Screenshot 3" width="400">
+    </td>
+    <td align="center">
+      <img src="Screenshots/s6.png" alt="Screenshot 4" width="400">
+    </td>
+  </tr>
+</table>
+
 ## Contact
 
 For a deeper exploration of this project, or to engage in conversations about my contributions and the pivotal role PHP played in its realization, feel free to connect with me at:
