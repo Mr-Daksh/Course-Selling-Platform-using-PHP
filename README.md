@@ -34,10 +34,10 @@ At the heart of this project's triumph lies our mastery of PHP—a foundational 
 
 ### Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Core PHP
-- **Database:** MySQL
-- **Payment Gateway:** Razorpay
+- **Frontend: HTML, CSS, JavaScript, Bootstrap**
+- **Backend: PHP**
+- **Database: MySQL**
+- **Payment Gateway: Razorpay**
 
 ### Challenges and Solutions
 
@@ -78,5 +78,6 @@ Due to confidentiality agreements, the comprehensive codebase cannot be shared o
 ## Contact
 
 For a deeper exploration of this project, or to engage in conversations about my contributions and the pivotal role PHP played in its realization, feel free to connect with me at 
+
 dakshsahu24@gmail.com
 7318486989
