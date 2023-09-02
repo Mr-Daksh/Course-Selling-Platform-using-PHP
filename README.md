@@ -1,5 +1,4 @@
-# Project Name: Course Selling Platform using PHP 
-[https://globaltechmasters.com/](https://globaltechmasters.com/)
+# Project Name: Course Selling Platform using PHP [https://globaltechmasters.com/](https://globaltechmasters.com/)
 
 ## Overview
 
