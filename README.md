@@ -16,8 +16,6 @@ As a freelancer, I embarked on a collaborative journey with a fellow developer t
 
 I was responsible for the following key aspects:
 
-- Designing and implementing dynamic features using core PHP.
-- Managing database interactions and ensuring data integrity.
 - Collaborating with my teammate to integrate frontend components seamlessly.
 - Implementing user authentication and authorization protocols.
 - Overcoming challenges and fine-tuning the project to meet the client's needs.
@@ -25,10 +23,6 @@ I was responsible for the following key aspects:
 ### Team Collaboration
 
 My colleague and I collaborated closely throughout the development process. Together, we established a private GitHub repository, allowing us to work efficiently and maintain a clean codebase. Regular code pushes and reviews ensured our progress remained steady.
-
-## Proficiency in PHP and Backend Architecture
-
-At the heart of this project's triumph lies our mastery of PHP—a foundational element that enabled the creation of dynamic content and seamless interactions. Through PHP's robust capabilities, we engineered a system mirroring the structure of blogs, meticulously tailored to accommodate course creation and sales. This experience is a testament to my profound understanding of PHP's versatility and functionality.
 
 ## Technologies and Challenges
 
